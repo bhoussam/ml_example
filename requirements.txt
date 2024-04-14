@@ -1,3 +1,4 @@
-pandas
-pyhocon
-streamlit
+loguru==0.7.2
+pandas==2.2.2
+pyhocon==0.3.60
+streamlit==1.33.0
